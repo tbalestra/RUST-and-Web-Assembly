@@ -1,4 +1,7 @@
-# RUST and Web Assembly
+# Programming Languages 
+## Exercises
+- Exercise 1: [String rewriting](https://hackmd.io/s/r1uTP2Pnm)
+## RUST and Web Assembly
 
 ### What will we make?
   We will be making a basic scientific calculator online that utilizes the functionality of Web Assembly and RUST.
