@@ -16,3 +16,9 @@
 ### Final Stage
 - Transfer over all functions created in RUST to be utilized by Web Assembly.
 - Have a working calculator that looks pretty :)
+
+
+### LINKS
+ - [Setting up Rust and Web Assembly](https://hackmd.io/s/HJ32P4K27)
+
+ - [Exercises](https://hackmd.io/s/H1Dt-hu3m)
