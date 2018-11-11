@@ -18,7 +18,11 @@
 - Have a working calculator that looks pretty :)
 
 
-### LINKS
+### Blog Posts
  - [Setting up Rust and Web Assembly](https://hackmd.io/s/HJ32P4K27)
 
- - [Exercises](https://hackmd.io/s/H1Dt-hu3m)
+ - [Exercise (String Rewriting](https://hackmd.io/utmdAGPdQRiG9I6oIv4N7w)
+ 
+ - [Exercise (Termination)](https://hackmd.io/sxopBgUYTBueF1DDOCC6WQ)
+ 
+ - [Exercise (Partial Correctness)](https://hackmd.io/FWl76uPuSh-meSpcsllZYA)
