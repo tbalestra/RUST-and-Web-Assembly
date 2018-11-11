@@ -21,7 +21,7 @@
 ### Blog Posts
  - [Setting up Rust and Web Assembly](https://hackmd.io/s/HJ32P4K27)
 
- - [Exercise (String Rewriting](https://hackmd.io/utmdAGPdQRiG9I6oIv4N7w)
+ - [Exercise (String Rewriting)](https://hackmd.io/utmdAGPdQRiG9I6oIv4N7w)
  
  - [Exercise (Termination)](https://hackmd.io/sxopBgUYTBueF1DDOCC6WQ)
  
