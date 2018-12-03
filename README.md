@@ -17,6 +17,8 @@
 - Transfer over all functions created in RUST to be utilized by Web Assembly.
 - Have a working calculator that looks pretty :)
 
+### Video Showing Our Calculator
+- [Calculator Video](https://youtu.be/-RrpMprWeEU)
 
 ### Blog Posts
  - [Setting up Rust and Web Assembly](https://hackmd.io/s/HJ32P4K27)
