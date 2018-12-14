@@ -27,6 +27,8 @@
  
  - [Hello World!](https://hackmd.io/s/rJGPc2ka7)
  
+ - [Making a Calculator Part 1: Rust](https://hackmd.io/s/S1-oZRleE)
+ 
  - [Exercise (String Rewriting)](https://hackmd.io/utmdAGPdQRiG9I6oIv4N7w)
  
  - [Exercise (Termination)](https://hackmd.io/sxopBgUYTBueF1DDOCC6WQ)
