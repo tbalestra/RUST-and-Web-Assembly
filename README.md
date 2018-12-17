@@ -33,6 +33,8 @@
  
  - [Exercise (String Rewriting)](https://hackmd.io/utmdAGPdQRiG9I6oIv4N7w)
  
+ - [Exercise (ORK)](https://hackmd.io/jgXCI4gaRrGVIo-EI4dbPw?view)
+ 
  - [Exercise (Termination)](https://hackmd.io/sxopBgUYTBueF1DDOCC6WQ)
  
- - [Exercise (Partial Correctness)](https://hackmd.io/FWl76uPuSh-meSpcsllZYA)
+ - [Exercise (Partial Correctness/Hoare Logic)](https://hackmd.io/FWl76uPuSh-meSpcsllZYA)
